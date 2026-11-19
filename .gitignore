@@ -1,0 +1,13 @@
+# Pastas e arquivos temporários do Terraform
+.terraform/
+.terraform.lock.hcl
+
+# Arquivos de estado do Terraform (podem conter dados sensíveis)
+*.tfstate
+*.tfstate.*
+
+# Arquivos locais de variáveis e segredos
+*.tfvars
+!*.tfvars.example
+.env
+.env.*
