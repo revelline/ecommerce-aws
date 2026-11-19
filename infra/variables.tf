@@ -1,0 +1,1 @@
+# Variáveis de entrada do projeto (região, nome, tamanhos) e suas descrições

@@ -1,0 +1,1 @@
+# Regras de firewall (Security Groups) para ALB, microsserviços e banco

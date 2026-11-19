@@ -1,0 +1,1 @@
+# Fila SQS, função Lambda de pedidos e logs no CloudWatch

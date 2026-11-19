@@ -1,0 +1,1 @@
+# Armazenamento (S3) e banco de dados da aplicação
